@@ -1,0 +1,38 @@
+# For Assignment 1
+assignment1/opencart/image/cache
+assignment1/opencart/system/cache
+assignment1/opencart/system/logs
+assignment1/opencart/download
+
+# For Assignment 2
+# Ignore for vim
+# swap
+assignment2/[._]*.s[a-v][a-z]
+assignment2/[._]*.sw[a-p]
+assignment2/[._]s[a-v][a-z]
+assignment2/[._]sw[a-p]
+# session
+assignment2/Session.vim
+# temporary
+assignment2/.netrwhist
+assignment2/*~
+# auto-generated tag files
+assignment2/tags
+
+# Ignore any generated files
+assignment2/*results.html
+assignment2/*results.txt
+
+# Ignores all logs
+assignment2/*.log
+
+# For Assignment 3
+assignment3/crawler/spiders/*.pyc
+assignment3/crawler/*.pyc
+assignment3/crawler/logs
+assignment3/database/*.pyc
+assignment3/logger/*.pyc
+assignment3/scanner/*.pyc
+assignment3/sniffer/*.pyc
+assignment3/*.txt
+assignment3/*.sqlite
